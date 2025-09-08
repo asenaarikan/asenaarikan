@@ -27,16 +27,15 @@ I mainly work with **Java** and **Spring Boot**, focusing on data management and
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asenaarikan&show_icons=true&theme=radical)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asenaarikan&layout=compact&theme=radical)
+
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/asena-arikan)  
-- ✉️ Email: **asena-arikan@outlook.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asena-arikan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asena-arikan@outlook.com)
 
 ---
 
 ⭐ **Fun fact about me:** I code in Java, teach math by day, and negotiate bedtime like a lawyer at night. ⚖️👩‍💻👩‍👧  
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=asenaarikan&color=blue&style=flat-square)
+![Fun Fact Badge](https://img.shields.io/badge/Fun-Full_time_mom_&_coder-ff69b4?style=for-the-badge)
