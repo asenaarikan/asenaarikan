@@ -33,6 +33,3 @@ I mainly work with **Java** and **Spring Boot**, focusing on data management and
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asena-arikan@outlook.com)
 
 ---
-
-⭐ **Fun fact about me:**  
-![Fun Fact](https://img.shields.io/badge/Fun-Solving_Equations_%26_Bugs-ff69b4?style=for-the-badge)
