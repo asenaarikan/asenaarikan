@@ -39,3 +39,4 @@ I mainly work with **Java** and **Spring Boot**, focusing on data management and
 
 ⭐ **Fun fact about me:** I code in Java, teach math by day, and negotiate bedtime like a lawyer at night. ⚖️👩‍💻👩‍👧  
 ![Fun Fact](https://img.shields.io/badge/Fun-Math_teacher_by_day_Coder_by_night-ff69b4?style=for-the-badge)
+
